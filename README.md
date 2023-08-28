@@ -1,1 +1,1 @@
-# Janhabi
+#Simple calculator
